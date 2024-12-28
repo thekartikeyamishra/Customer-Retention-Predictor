@@ -111,6 +111,11 @@ python main.py
 
 ---
 
+- * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+
+ ---
+
+
 ## Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request for any enhancements or bug fixes.
